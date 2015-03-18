@@ -1,0 +1,8 @@
+C:\Users\Jean\Favorites\Documents\Visual Studio 2010\Projects\CCDmonoligne\CCDmonoligne\bin\Release\CCDmonoligne.exe
+C:\Users\Jean\Favorites\Documents\Visual Studio 2010\Projects\CCDmonoligne\CCDmonoligne\bin\Release\CCDmonoligne.pdb
+C:\Users\Jean\Favorites\Documents\Visual Studio 2010\Projects\CCDmonoligne\CCDmonoligne\obj\x86\Release\CCDmonoligne.Form1.resources
+C:\Users\Jean\Favorites\Documents\Visual Studio 2010\Projects\CCDmonoligne\CCDmonoligne\obj\x86\Release\CCDmonoligne.Properties.Resources.resources
+C:\Users\Jean\Favorites\Documents\Visual Studio 2010\Projects\CCDmonoligne\CCDmonoligne\obj\x86\Release\CCDmonoligne.csproj.GenerateResource.Cache
+C:\Users\Jean\Favorites\Documents\Visual Studio 2010\Projects\CCDmonoligne\CCDmonoligne\obj\x86\Release\CCDmonoligne.exe
+C:\Users\Jean\Favorites\Documents\Visual Studio 2010\Projects\CCDmonoligne\CCDmonoligne\obj\x86\Release\CCDmonoligne.pdb
+C:\Users\Jean\Favorites\Documents\Visual Studio 2010\Projects\CCDmonoligne\CCDmonoligne\obj\x86\Release\CCDmonoligne.csprojResolveAssemblyReference.cache
