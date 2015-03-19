@@ -6,4 +6,4 @@ The project is at http://asnora.pagesperso-orange.fr/ccd/monoligne/monoligne511_
 autor : Jean Brunet, mail to : johnbrunet@orange.fr
 
 copyright : march 2015
-GNU licence 2.0
+GNU license 2.0
